@@ -1,5 +1,6 @@
 # 📄 AI Resume Analyzer
 
+🚀 **Live Demo:** [Try the AI Resume Analyzer](https://ai-resume-analyze-h5ctnunybjcgrehsfjnpk.streamlit.app/)
 An AI-powered resume analysis and job matching application built with Python, Streamlit, and Google Gemini.
 
 The application analyzes a candidate's resume, calculates an ATS score, compares the resume with a job description, identifies matching and missing skills, and provides actionable recommendations for improving the resume.
